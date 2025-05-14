@@ -1,3 +1,3 @@
 # Python-examples
 My Py's practices.
-![](/miscellaneous_notes/JupyterLabs.png)
+![](/miscellaneous_notes/JupyterLab.png)
