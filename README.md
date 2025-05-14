@@ -1,2 +1,2 @@
-# practicing-Python-language
-Mis prácticas de Py
+# Python-examples
+My Py's practices.
