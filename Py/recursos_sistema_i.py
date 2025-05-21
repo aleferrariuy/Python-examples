@@ -1,7 +1,8 @@
+# Instalar con pip install psutil si no esta presente en el sistema
 import psutil
 
 def mostrar_recursos():
-    # Uso de CPU en porcentaje (espera 1 segundo para la medición)
+    # Uso de CPU en porcentaje (espera 5 segundo para completar la medición)
     uso_cpu = psutil.cpu_percent(interval=5)
     # Uso de memoria RAM en porcentaje
     uso_ram = psutil.virtual_memory().percent
